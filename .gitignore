@@ -17,8 +17,10 @@ coverage.xml
 # Environments
 .env
 .venv
+.venv311
 env/
 venv/
+venv311/
 ENV/
 env.bak/
 venv.bak/
@@ -51,3 +53,4 @@ dist/
 
 #generted files
 run_id.txt
+*.csv
